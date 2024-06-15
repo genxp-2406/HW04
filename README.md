@@ -28,8 +28,6 @@ Diameter: Average inflation computed over all indexes for a given year
 Animation that shows frequency of accidents, but using a scale of time of 1:3600 (1 sec in animation is 1 hour in real time).
 
 ![](./imgs/HW04-02.jpg)
-![](./imgs/HW04-03.jpg)
-![](./imgs/HW04-04.jpg)
 
 X: Longitude of accident  
 Y: Latitude of accident  
